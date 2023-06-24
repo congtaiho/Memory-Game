@@ -1,6 +1,6 @@
 # Memory-Game
 ## Introduce
-This is a memory game application built from Javascript language. This is also a final project of our Javascript course.
+This is a memory game application built from Javascript, HTML, CSS. This is also a final project of our Javascript course.
 ## Description
 In the game, players can choose different themes to start the game. If the player chooses two identical pictures, they will get 1 point and if they find all the pictures, they will win the game. 
 After winning the game will display the player's time and score.
