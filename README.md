@@ -55,6 +55,9 @@ After winning the game will display the player's time and score.
 - **Build your code** 🔨🔨🔨
 
 #### Step 3
+- 🔃 Create a new pull request.
+
+## Teams 💡
 [@Cong Tai Ho] [@Taoufik Boussemousse]
 
 
