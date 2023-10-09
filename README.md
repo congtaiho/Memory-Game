@@ -1,3 +1,8 @@
+# Memory-Game🔥
+> https://github.com/congtaiho/Memory-Game/
+
+:star: Star me on GitHub — it helps!
+
 # Game Preview
 ## Introduce
 This is a memory game application built from Javascript, HTML, CSS. This is also a final project of our Javascript course.
